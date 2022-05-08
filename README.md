@@ -31,7 +31,7 @@ Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and l
 <h1> ⭐ How to get started?</h1>
 
 - fork the repository <br />
-  <br /><img src = "images/fork.png" /> <br />
+  <br /><img src = "Images/fork.jpeg" /> <br />
 
 - clone the repository using Git command <br />
   <br/> <img src="images/clone.png" /> <br/>
