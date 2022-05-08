@@ -28,3 +28,36 @@ Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and l
 |Kucoin|[Kucoin](https://www.kucoin.com/land/task-center)|By completing task u can earn crypto |
 |SuperteamTalent|[SuperteamTalent](https://superteam.fun/)|U can learn as well as find job as a blockchain developer in this organization for free . Get instant jobs, paid in tokens.🙂 💙|
 
+<h1> ⭐ How to get started?</h1>
+
+- fork the repository <br />
+  <br /><img src = "images/fork.png" /> <br />
+
+- clone the repository using Git command <br />
+  <br/> <img src="images/clone.png" /> <br/>
+  &nbsp; git clone https://github.com/{github_username}/Open-Source-Programs.git
+- move to the newly created folder using
+  Git command <br />
+  &nbsp; ```cd Open-Source-Programs/```
+- open in your text editor
+- make a new branch and then make the changes.<br/> For making new branch , use this Git command
+   <br/> &nbsp; ```git checkout -b {new branch name}```
+- check your changes using command
+<br/> &nbsp; ```git status```
+- save your changes by using command <br/>
+&nbsp; ``` git add .```
+- commit your changes using command <br/>
+ &nbsp; ```git commit -m "your_commit_message"```
+- to push your changes to github. Use command
+<br/> &nbsp; ```git push origin new_branch_name``` 
+
+# Raising Your 1st PR <br/>
+
+- After pushing your code, go to the forked repository. There you will see change like this. <br />
+ <br><img src="images/pullreq.png"/>
+- click on compare and pull request. Such page will appear. Write meaningfull message and title which describes your changes<br/>
+<br/> <img src="images/PR.png"/>
+- click on create pull request. <br/>
+
+Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo
+  
