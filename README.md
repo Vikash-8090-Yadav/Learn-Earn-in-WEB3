@@ -1,6 +1,6 @@
 # Learn-Earn-in-WEB3 🕸️3
 
-As we all know that the blockchain is the most rated , in demand technology.<br>So for this am planning to list all the website/organization which help's <b>beginnere to learn blockchain</b> 😄 with <b>earning</b> .<br>
+As we all know that the blockchain is the most rated , in demand technology.So for this am planning to list <br>all the website/organization which help's <b>beginnere to learn blockchain</b> 😄 with <b>earning</b> .<br>
 Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and learn more ,<br> 
 <b>The most important thing is that u will also hired on the basis of ur skill</b> .<br>
 So what are u waiting for Go and sign up ,learn with learn process and enjoy the path 🤟
