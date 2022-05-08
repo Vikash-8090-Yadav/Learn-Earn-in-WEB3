@@ -3,7 +3,7 @@ As we all know that the blockchain is the most rated , in demand technology.So f
 So what are u waiting for Go and sign up ,learn with learn process and enjoy the path 🤟
 
 | Organization Name | Link for the organization | Desacription |
-|---|---|---|--|--|
+|---|---|---|
 |Pointer|[pointer](https://www.pointer.gg/)|This is for the complete beginner as well as intermediate .Earn by completing the project related to the blockchain.This community has great project that u can level up your portfolio/resume 😃<br>start learning the skills for the web3 programming economy and get paid while you learn|
 |StackUpHQ|[StackUpHQ](https://app.stackup.dev/)|StackUp enables developers to level up, grow and connect with a global Dev community — all while being rewarded for their time.If u are complete or u know coding or have some knowledge on the web2 then this is for you<br>Earn in dollar’s to learn stuff.|
 |layer3xyz|[ layer3xyz](https://beta.layer3.xyz/)|Layer3 is a platform that enables anyone to contribute to a DAO. We provide a marketplace of bounties where users can earn governance tokens by doing things as simple as putting out a tweet or as complex as re-designing a front-end.<br>
