@@ -63,7 +63,7 @@ Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and l
 - After pushing your code, go to the forked repository. There you will see change like this. <br />
  <br><img src="Images/pr.jpg"/>
 - click on compare and pull request. Such page will appear. Write meaningfull message and title which describes your changes<br/>
-<br/> <img src="Images/submit_pr.jpeg"/>
+<br/> <img src="Images/submit_pr.jpg"/>
 - click on create pull request. <br/>
 
 Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo 
