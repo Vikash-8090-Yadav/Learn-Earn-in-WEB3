@@ -9,8 +9,7 @@ So what are u waiting for Go and sign up ,learn with learn process and enjoy the
 |layer3xyz|[ layer3xyz](https://beta.layer3.xyz/)|Layer3 is a platform that enables anyone to contribute to a DAO. They provide a marketplace of bounties where users can earn governance tokens by doing things as simple as putting out a tweet or as complex as re-designing a front-end|
 |Phemex learn and earn|[Phemex learn and earn](https://phemex.com/learn-crypto)|Learn & Earn is a brand new Phemex educational program that compensates you simply for learning new crypto, blockchain, and platform knowledge.|
 |pyme_team|[pyme_team](https://pyme.team/)|Showcase your skills. Earn Crypto. Get hired. Be awesome.Get paid instantly . Earn crypto and NFTs for completing short tasks.|
-|Coinmarketcap earn|[Coinmarketcap earn](https://coinmarketcap.com/earn/)|CoinMarketCap has partnered with trusted & emerging projects to offer an easy way to learn about cryptocurrency, earning cryptoassets as a reward.
-You can complete the project related to the web3 on their site’s and earn crypto .|
+|Coinmarketcap earn|[Coinmarketcap earn](https://coinmarketcap.com/earn/)|CoinMarketCap has partnered with trusted & emerging projects to offer an easy way to learn about cryptocurrency, earning cryptoassets as a reward.  You can complete the project related to the web3 on their site’s and earn crypto .|
 |Binance learn and earn|[Binance learn and earn](https://www.binance.com/en/support/announcement/5aee07d467314086ab204ed92ee1bbaa)|This is for beginner as well as advanced/experiance developer ,they can complete the learning track’s or make project on web3 to get paid|
 |Cake DeFi learn and earn|[Cake DeFi learn and earn](https://app.cakedefi.com/learn)| Get paid by completing the project ,quizes and module's|
 |Questbook Learn and earn|[Questbook Learn and earn](https://openquest.xyz/)|Get paid by completing the each Module ,quizes,lesson's (for complete beginner)|
