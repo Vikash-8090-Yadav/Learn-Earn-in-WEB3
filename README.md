@@ -30,15 +30,22 @@ Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and l
 
 <h1> ⭐ How to get started?</h1>
 
+- Create an issue 
+   <br /> <img src = "Images/newissue.jpg" /><br />
+ 
+- SUbmit the issue by clicking on the submit button
+  <br /> <img src = "Images/submit.jpg" /> <br />
+  
+
 - fork the repository <br />
   <br /><img src = "Images/fork.jpeg" /> <br />
 
 - clone the repository using Git command <br />
-  <br/> <img src="images/clone.png" /> <br/>
-  &nbsp; git clone https://github.com/{github_username}/Open-Source-Programs.git
+  <br/> <img src="Images/clone.jpeg" /> <br/>
+  &nbsp; git clone https://github.com/Vikash-8090-Yadav/Learn-Earn-in-WEB3.git
 - move to the newly created folder using
   Git command <br />
-  &nbsp; ```cd Open-Source-Programs/```
+  &nbsp; ```cd Learn-Earn-in-WEB3/```
 - open in your text editor
 - make a new branch and then make the changes.<br/> For making new branch , use this Git command
    <br/> &nbsp; ```git checkout -b {new branch name}```
@@ -54,9 +61,9 @@ Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and l
 # Raising Your 1st PR <br/>
 
 - After pushing your code, go to the forked repository. There you will see change like this. <br />
- <br><img src="images/pullreq.png"/>
+ <br><img src="Images/pr.jpg"/>
 - click on compare and pull request. Such page will appear. Write meaningfull message and title which describes your changes<br/>
-<br/> <img src="images/PR.png"/>
+<br/> <img src="Images/submit_pr.jpeg"/>
 - click on create pull request. <br/>
 
 Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo 
