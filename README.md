@@ -59,5 +59,5 @@ Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and l
 <br/> <img src="images/PR.png"/>
 - click on create pull request. <br/>
 
-Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo
+Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo 
   
