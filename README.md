@@ -1,9 +1,18 @@
 # Learn-Earn-in-WEB3 🕸️3
 
-As we all know that the blockchain is the most rated , in demand technology.So for this am planning to list <br>all the website/organization which help's <b>beginnere to learn blockchain</b> 😄 with <b>earning</b> Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and learn more ,<br> 
-``` <b>The most important thing is that u will also hired on the basis of ur skill</b> .<br>
+
+As we all know that the blockchain is the most rated , in demand technology.So for this am planning to list
+
+all the website/organization which help's <b>beginnere to learn blockchain</b> 😄 with <b>earning</b> 
+
+Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and learn more , 
 ```
-So what are u waiting for Go and sign up ,learn with learn process and enjoy the path 🤟
+ Most important thing is that u will <b>also get job</b>(full time / intern) on the basis of 
+ ur skill,project and performance  .
+```
+<h3>So what are u waiting for Go and sign up , ♥️ Welcome to learn with earn  process, enjoy the path 🤟</h3>
+
+<hr>
 
 | Organization Name | Link for the organization | Desacription |
 |---|---|---|
@@ -18,4 +27,4 @@ So what are u waiting for Go and sign up ,learn with learn process and enjoy the
 |Questbook Learn and earn|[Questbook Learn and earn](https://openquest.xyz/)|Get paid by completing the each Module ,quizes,lesson's (for complete beginner)|
 |Kucoin|[Kucoin](https://www.kucoin.com/land/task-center)|By completing task u can earn crypto |
 |SuperteamTalent|[SuperteamTalent](https://superteam.fun/)|U can learn as well as find job as a blockchain developer in this organization for free . Get instant jobs, paid in tokens.🙂 💙|
-|
+
