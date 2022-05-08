@@ -5,7 +5,7 @@ As we all know that the blockchain is the most rated , in demand technology.So f
 
 all the website/organization which help's <b>beginnere to learn blockchain</b> 😄 with <b>earning</b> 
 
-Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and learn more , 
+Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and learn more.
 ```
  Most important thing is that u will <b>also get job</b>(full time / intern) on the basis of 
  ur skill,project and performance  .
