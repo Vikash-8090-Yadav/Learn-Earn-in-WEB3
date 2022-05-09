@@ -3,14 +3,14 @@
 
 As we all know that the blockchain is the most rated , in demand technology.So for this am planning to list
 
-all the website/organization which help's <b>beginnere to learn blockchain</b> 😄 with <b>earning</b> 
+all the website/organization which help's <b>beginner to learn blockchain</b> 😄 with <b>earning</b> 
 
-Anyone can  upskill their  knowledge ,<b>showcase their project</b> ,skill and learn more.
+Anyone can  upskill their  knowledge ,<b>showcase your project</b> ,skill and learn more.
 ```
- Most important thing is that u will <b>also get job</b>(full time / intern) on the basis of 
- ur skill,project and performance  .
+ Most important thing is that you will also get job(full time / intern) on the basis of 
+ your skill,project and performance  .
 ```
-<h3>So what are u waiting for Go and sign up , ♥️ Welcome to learn with earn  process, enjoy the path 🤟</h3>
+<h3>So what are you waiting for Go and sign up , ♥️ Welcome to learn with earn  process, enjoy the path 🤟</h3>
 
 <hr>
 
